@@ -1,0 +1,2390 @@
+[
+    {
+        "excel_id": 4240753,
+        "seq_id": "NODE_4_length_240753_cov_16.848752",
+        "CRISPR_start": 20000,
+        "CRISPR_end": 21340,
+        "proteins": [
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#3736#4413",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_4",
+                "protein_start": 3736,
+                "protein_end": 4413,
+                "E_value": 3.54e-27,
+                "distace_between_CRISPR_pro": -15587,
+                "length": 225,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#4442#5437",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_5",
+                "protein_start": 4442,
+                "protein_end": 5437,
+                "E_value": 1.42e-64,
+                "distace_between_CRISPR_pro": -14563,
+                "length": 331,
+                "anno_name": "Phage_integrase",
+                "pfam_anno_name": "-",
+                "function": "Belongs to the 'phage' integrase family"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#7726#8169",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_9",
+                "protein_start": 7726,
+                "protein_end": 8169,
+                "E_value": 2.38e-57,
+                "distace_between_CRISPR_pro": -11831,
+                "length": 147,
+                "anno_name": "TM2",
+                "pfam_anno_name": "-",
+                "function": "TM2 domain"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#9971#11275",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_11",
+                "protein_start": 9971,
+                "protein_end": 11275,
+                "E_value": 0.0003294,
+                "distace_between_CRISPR_pro": -8725,
+                "length": 434,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#11272#12123",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_12",
+                "protein_start": 11272,
+                "protein_end": 12123,
+                "E_value": 7.84e-31,
+                "distace_between_CRISPR_pro": -7877,
+                "length": 283,
+                "anno_name": "WYL",
+                "pfam_anno_name": "-",
+                "function": "transcriptional regulator"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#13135#14562",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_15",
+                "protein_start": 13135,
+                "protein_end": 14562,
+                "E_value": 1.34e-31,
+                "distace_between_CRISPR_pro": -5438,
+                "length": 475,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#14578#15216",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_16",
+                "protein_start": 14578,
+                "protein_end": 15216,
+                "E_value": 9.75e-40,
+                "distace_between_CRISPR_pro": -4784,
+                "length": 212,
+                "anno_name": "DUF4194",
+                "pfam_anno_name": "-",
+                "function": "Domain of unknown function (DUF4194)"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#15218#18727",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_17",
+                "protein_start": 15218,
+                "protein_end": 18727,
+                "E_value": 1.6e-203,
+                "distace_between_CRISPR_pro": -1273,
+                "length": 1169,
+                "anno_name": "AAA_29,SbcCD_C",
+                "pfam_anno_name": "-",
+                "function": "DNA replication and repair protein RecF"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#18724#19986",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_18",
+                "protein_start": 18724,
+                "protein_end": 19986,
+                "E_value": 1.01e-51,
+                "distace_between_CRISPR_pro": -14,
+                "length": 420,
+                "anno_name": "DUF2220,DUF3322",
+                "pfam_anno_name": "-",
+                "function": "Uncharacterized protein conserved in bacteria C-term(DUF2220)"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#21463#22143",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_19",
+                "protein_start": 21463,
+                "protein_end": 22143,
+                "E_value": 0.0001766,
+                "distace_between_CRISPR_pro": 123,
+                "length": 226,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#25114#27450",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_23",
+                "protein_start": 25114,
+                "protein_end": 27450,
+                "E_value": 5.91e-20,
+                "distace_between_CRISPR_pro": 3774,
+                "length": 778,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "ATP-dependent helicase activity"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#29825#30127",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_28",
+                "protein_start": 29825,
+                "protein_end": 30127,
+                "E_value": 8.19e-21,
+                "distace_between_CRISPR_pro": 8485,
+                "length": 100,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#30398#30844",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_30",
+                "protein_start": 30398,
+                "protein_end": 30844,
+                "E_value": 2.91e-19,
+                "distace_between_CRISPR_pro": 9058,
+                "length": 148,
+                "anno_name": "Histone_HNS",
+                "pfam_anno_name": "-",
+                "function": "protein dimerization activity"
+            },
+            {
+                "protein_id": "NODE_4_length_240753_cov_16.848752#20000#21340#36623#38065",
+                "faa_id": "NODE_4_length_240753_cov_16.848752#20000#21340_40",
+                "protein_start": 36623,
+                "protein_end": 38065,
+                "E_value": 2.49e-58,
+                "distace_between_CRISPR_pro": 15283,
+                "length": 480,
+                "anno_name": "BsuBI_PstI_RE,Eco57I",
+                "pfam_anno_name": "-",
+                "function": "BsuBI/PstI restriction endonuclease C-terminus"
+            }
+        ]
+    },
+    {
+        "excel_id": 5172933,
+        "seq_id": "NODE_5_length_172933_cov_168.407605",
+        "CRISPR_start": 20000,
+        "CRISPR_end": 20503,
+        "proteins": [
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#3281#4723",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_6",
+                "protein_start": 3281,
+                "protein_end": 4723,
+                "E_value": 2.49e-58,
+                "distace_between_CRISPR_pro": -15277,
+                "length": 480,
+                "anno_name": "BsuBI_PstI_RE,Eco57I",
+                "pfam_anno_name": "-",
+                "function": "BsuBI/PstI restriction endonuclease C-terminus"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#10502#10948",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_16",
+                "protein_start": 10502,
+                "protein_end": 10948,
+                "E_value": 2.91e-19,
+                "distace_between_CRISPR_pro": -9052,
+                "length": 148,
+                "anno_name": "Histone_HNS",
+                "pfam_anno_name": "-",
+                "function": "protein dimerization activity"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#11219#11521",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_18",
+                "protein_start": 11219,
+                "protein_end": 11521,
+                "E_value": 8.19e-21,
+                "distace_between_CRISPR_pro": -8479,
+                "length": 100,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#13896#16232",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_23",
+                "protein_start": 13896,
+                "protein_end": 16232,
+                "E_value": 5.91e-20,
+                "distace_between_CRISPR_pro": -3768,
+                "length": 778,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "ATP-dependent helicase activity"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#19203#19883",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_27",
+                "protein_start": 19203,
+                "protein_end": 19883,
+                "E_value": 0.0001766,
+                "distace_between_CRISPR_pro": -117,
+                "length": 226,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#21360#22622",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_28",
+                "protein_start": 21360,
+                "protein_end": 22622,
+                "E_value": 1.01e-51,
+                "distace_between_CRISPR_pro": 857,
+                "length": 420,
+                "anno_name": "DUF2220,DUF3322",
+                "pfam_anno_name": "-",
+                "function": "Uncharacterized protein conserved in bacteria C-term(DUF2220)"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#22619#26128",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_29",
+                "protein_start": 22619,
+                "protein_end": 26128,
+                "E_value": 1.6e-203,
+                "distace_between_CRISPR_pro": 2116,
+                "length": 1169,
+                "anno_name": "AAA_29,SbcCD_C",
+                "pfam_anno_name": "-",
+                "function": "DNA replication and repair protein RecF"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#26130#26768",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_30",
+                "protein_start": 26130,
+                "protein_end": 26768,
+                "E_value": 9.75e-40,
+                "distace_between_CRISPR_pro": 5627,
+                "length": 212,
+                "anno_name": "DUF4194",
+                "pfam_anno_name": "-",
+                "function": "Domain of unknown function (DUF4194)"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#26784#28211",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_31",
+                "protein_start": 26784,
+                "protein_end": 28211,
+                "E_value": 1.34e-31,
+                "distace_between_CRISPR_pro": 6281,
+                "length": 475,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#29223#30074",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_34",
+                "protein_start": 29223,
+                "protein_end": 30074,
+                "E_value": 7.84e-31,
+                "distace_between_CRISPR_pro": 8720,
+                "length": 283,
+                "anno_name": "WYL",
+                "pfam_anno_name": "-",
+                "function": "transcriptional regulator"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#30071#31375",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_35",
+                "protein_start": 30071,
+                "protein_end": 31375,
+                "E_value": 0.0003294,
+                "distace_between_CRISPR_pro": 9568,
+                "length": 434,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#33177#33620",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_37",
+                "protein_start": 33177,
+                "protein_end": 33620,
+                "E_value": 2.38e-57,
+                "distace_between_CRISPR_pro": 12674,
+                "length": 147,
+                "anno_name": "TM2",
+                "pfam_anno_name": "-",
+                "function": "TM2 domain"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#35909#36904",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_41",
+                "protein_start": 35909,
+                "protein_end": 36904,
+                "E_value": 1.42e-64,
+                "distace_between_CRISPR_pro": 15406,
+                "length": 331,
+                "anno_name": "Phage_integrase",
+                "pfam_anno_name": "-",
+                "function": "Belongs to the 'phage' integrase family"
+            },
+            {
+                "protein_id": "NODE_5_length_172933_cov_168.407605#20000#20503#36933#37610",
+                "faa_id": "NODE_5_length_172933_cov_168.407605#20000#20503_42",
+                "protein_start": 36933,
+                "protein_end": 37610,
+                "E_value": 3.54e-27,
+                "distace_between_CRISPR_pro": 16430,
+                "length": 225,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            }
+        ]
+    },
+    {
+        "excel_id": 5240519,
+        "seq_id": "NODE_5_length_240519_cov_49.090700",
+        "CRISPR_start": 20000,
+        "CRISPR_end": 21340,
+        "proteins": [
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#3736#4413",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_4",
+                "protein_start": 3736,
+                "protein_end": 4413,
+                "E_value": 3.54e-27,
+                "distace_between_CRISPR_pro": -15587,
+                "length": 225,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#4442#5437",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_5",
+                "protein_start": 4442,
+                "protein_end": 5437,
+                "E_value": 1.42e-64,
+                "distace_between_CRISPR_pro": -14563,
+                "length": 331,
+                "anno_name": "Phage_integrase",
+                "pfam_anno_name": "-",
+                "function": "Belongs to the 'phage' integrase family"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#7726#8169",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_9",
+                "protein_start": 7726,
+                "protein_end": 8169,
+                "E_value": 2.38e-57,
+                "distace_between_CRISPR_pro": -11831,
+                "length": 147,
+                "anno_name": "TM2",
+                "pfam_anno_name": "-",
+                "function": "TM2 domain"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#9971#11275",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_11",
+                "protein_start": 9971,
+                "protein_end": 11275,
+                "E_value": 0.0003294,
+                "distace_between_CRISPR_pro": -8725,
+                "length": 434,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#11272#12123",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_12",
+                "protein_start": 11272,
+                "protein_end": 12123,
+                "E_value": 7.84e-31,
+                "distace_between_CRISPR_pro": -7877,
+                "length": 283,
+                "anno_name": "WYL",
+                "pfam_anno_name": "-",
+                "function": "transcriptional regulator"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#13135#14562",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_15",
+                "protein_start": 13135,
+                "protein_end": 14562,
+                "E_value": 1.34e-31,
+                "distace_between_CRISPR_pro": -5438,
+                "length": 475,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#14578#15216",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_16",
+                "protein_start": 14578,
+                "protein_end": 15216,
+                "E_value": 9.75e-40,
+                "distace_between_CRISPR_pro": -4784,
+                "length": 212,
+                "anno_name": "DUF4194",
+                "pfam_anno_name": "-",
+                "function": "Domain of unknown function (DUF4194)"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#15218#18727",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_17",
+                "protein_start": 15218,
+                "protein_end": 18727,
+                "E_value": 1.6e-203,
+                "distace_between_CRISPR_pro": -1273,
+                "length": 1169,
+                "anno_name": "AAA_29,SbcCD_C",
+                "pfam_anno_name": "-",
+                "function": "DNA replication and repair protein RecF"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#18724#19986",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_18",
+                "protein_start": 18724,
+                "protein_end": 19986,
+                "E_value": 1.01e-51,
+                "distace_between_CRISPR_pro": -14,
+                "length": 420,
+                "anno_name": "DUF2220,DUF3322",
+                "pfam_anno_name": "-",
+                "function": "Uncharacterized protein conserved in bacteria C-term(DUF2220)"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#21463#22143",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_19",
+                "protein_start": 21463,
+                "protein_end": 22143,
+                "E_value": 0.0001766,
+                "distace_between_CRISPR_pro": 123,
+                "length": 226,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#25114#27450",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_23",
+                "protein_start": 25114,
+                "protein_end": 27450,
+                "E_value": 5.91e-20,
+                "distace_between_CRISPR_pro": 3774,
+                "length": 778,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "ATP-dependent helicase activity"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#29825#30127",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_28",
+                "protein_start": 29825,
+                "protein_end": 30127,
+                "E_value": 8.19e-21,
+                "distace_between_CRISPR_pro": 8485,
+                "length": 100,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#30398#30844",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_30",
+                "protein_start": 30398,
+                "protein_end": 30844,
+                "E_value": 2.91e-19,
+                "distace_between_CRISPR_pro": 9058,
+                "length": 148,
+                "anno_name": "Histone_HNS",
+                "pfam_anno_name": "-",
+                "function": "protein dimerization activity"
+            },
+            {
+                "protein_id": "NODE_5_length_240519_cov_49.090700#20000#21340#36623#38065",
+                "faa_id": "NODE_5_length_240519_cov_49.090700#20000#21340_40",
+                "protein_start": 36623,
+                "protein_end": 38065,
+                "E_value": 2.49e-58,
+                "distace_between_CRISPR_pro": 15283,
+                "length": 480,
+                "anno_name": "BsuBI_PstI_RE,Eco57I",
+                "pfam_anno_name": "-",
+                "function": "BsuBI/PstI restriction endonuclease C-terminus"
+            }
+        ]
+    },
+    {
+        "excel_id": 6241269,
+        "seq_id": "NODE_6_length_241269_cov_55.083859",
+        "CRISPR_start": 20000,
+        "CRISPR_end": 21340,
+        "proteins": [
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#3736#4413",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_4",
+                "protein_start": 3736,
+                "protein_end": 4413,
+                "E_value": 3.54e-27,
+                "distace_between_CRISPR_pro": -15587,
+                "length": 225,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#4442#5437",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_5",
+                "protein_start": 4442,
+                "protein_end": 5437,
+                "E_value": 1.42e-64,
+                "distace_between_CRISPR_pro": -14563,
+                "length": 331,
+                "anno_name": "Phage_integrase",
+                "pfam_anno_name": "-",
+                "function": "Belongs to the 'phage' integrase family"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#7726#8169",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_9",
+                "protein_start": 7726,
+                "protein_end": 8169,
+                "E_value": 2.38e-57,
+                "distace_between_CRISPR_pro": -11831,
+                "length": 147,
+                "anno_name": "TM2",
+                "pfam_anno_name": "-",
+                "function": "TM2 domain"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#9971#11275",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_11",
+                "protein_start": 9971,
+                "protein_end": 11275,
+                "E_value": 0.0003294,
+                "distace_between_CRISPR_pro": -8725,
+                "length": 434,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#11272#12123",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_12",
+                "protein_start": 11272,
+                "protein_end": 12123,
+                "E_value": 7.84e-31,
+                "distace_between_CRISPR_pro": -7877,
+                "length": 283,
+                "anno_name": "WYL",
+                "pfam_anno_name": "-",
+                "function": "transcriptional regulator"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#13135#14562",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_15",
+                "protein_start": 13135,
+                "protein_end": 14562,
+                "E_value": 1.34e-31,
+                "distace_between_CRISPR_pro": -5438,
+                "length": 475,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#14578#15216",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_16",
+                "protein_start": 14578,
+                "protein_end": 15216,
+                "E_value": 9.75e-40,
+                "distace_between_CRISPR_pro": -4784,
+                "length": 212,
+                "anno_name": "DUF4194",
+                "pfam_anno_name": "-",
+                "function": "Domain of unknown function (DUF4194)"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#15218#18727",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_17",
+                "protein_start": 15218,
+                "protein_end": 18727,
+                "E_value": 1.6e-203,
+                "distace_between_CRISPR_pro": -1273,
+                "length": 1169,
+                "anno_name": "AAA_29,SbcCD_C",
+                "pfam_anno_name": "-",
+                "function": "DNA replication and repair protein RecF"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#18724#19986",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_18",
+                "protein_start": 18724,
+                "protein_end": 19986,
+                "E_value": 1.01e-51,
+                "distace_between_CRISPR_pro": -14,
+                "length": 420,
+                "anno_name": "DUF2220,DUF3322",
+                "pfam_anno_name": "-",
+                "function": "Uncharacterized protein conserved in bacteria C-term(DUF2220)"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#21463#22143",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_19",
+                "protein_start": 21463,
+                "protein_end": 22143,
+                "E_value": 0.0001766,
+                "distace_between_CRISPR_pro": 123,
+                "length": 226,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#25114#27450",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_23",
+                "protein_start": 25114,
+                "protein_end": 27450,
+                "E_value": 5.91e-20,
+                "distace_between_CRISPR_pro": 3774,
+                "length": 778,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "ATP-dependent helicase activity"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#29825#30127",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_28",
+                "protein_start": 29825,
+                "protein_end": 30127,
+                "E_value": 8.19e-21,
+                "distace_between_CRISPR_pro": 8485,
+                "length": 100,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#30398#30844",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_30",
+                "protein_start": 30398,
+                "protein_end": 30844,
+                "E_value": 2.91e-19,
+                "distace_between_CRISPR_pro": 9058,
+                "length": 148,
+                "anno_name": "Histone_HNS",
+                "pfam_anno_name": "-",
+                "function": "protein dimerization activity"
+            },
+            {
+                "protein_id": "NODE_6_length_241269_cov_55.083859#20000#21340#36623#38065",
+                "faa_id": "NODE_6_length_241269_cov_55.083859#20000#21340_40",
+                "protein_start": 36623,
+                "protein_end": 38065,
+                "E_value": 2.49e-58,
+                "distace_between_CRISPR_pro": 15283,
+                "length": 480,
+                "anno_name": "BsuBI_PstI_RE,Eco57I",
+                "pfam_anno_name": "-",
+                "function": "BsuBI/PstI restriction endonuclease C-terminus"
+            }
+        ]
+    },
+    {
+        "excel_id": 7735364,
+        "seq_id": "NODE_77_length_35364_cov_7.191566",
+        "CRISPR_start": 4189,
+        "CRISPR_end": 4533,
+        "proteins": [
+            {
+                "protein_id": "NODE_77_length_35364_cov_7.191566#4189#4533#481#4899",
+                "faa_id": "NODE_77_length_35364_cov_7.191566#4189#4533_2",
+                "protein_start": 481,
+                "protein_end": 4899,
+                "E_value": 2.55e-97,
+                "distace_between_CRISPR_pro": -4052,
+                "length": 1472,
+                "anno_name": "CHU_C,LRR_4,Laminin_G_3,RCC1,SprB",
+                "pfam_anno_name": "-",
+                "function": "leucine- rich repeat protein"
+            },
+            {
+                "protein_id": "NODE_77_length_35364_cov_7.191566#4189#4533#5606#8146",
+                "faa_id": "NODE_77_length_35364_cov_7.191566#4189#4533_4",
+                "protein_start": 5606,
+                "protein_end": 8146,
+                "E_value": 5.81e-59,
+                "distace_between_CRISPR_pro": 1073,
+                "length": 846,
+                "anno_name": "CarbopepD_reg_2,DNA_pol_B,DNA_pol_B_exo1,DNA_pol_B_exo2,RNase_H_2",
+                "pfam_anno_name": "polB",
+                "function": "DNA replication proofreading"
+            },
+            {
+                "protein_id": "NODE_77_length_35364_cov_7.191566#4189#4533#8120#9229",
+                "faa_id": "NODE_77_length_35364_cov_7.191566#4189#4533_5",
+                "protein_start": 8120,
+                "protein_end": 9229,
+                "E_value": 4.94e-07,
+                "distace_between_CRISPR_pro": 3587,
+                "length": 369,
+                "anno_name": "AAA_13,Peptidase_S46,Tubulin_2,VRP1",
+                "pfam_anno_name": "tcdA2",
+                "function": "DNA recombination"
+            },
+            {
+                "protein_id": "NODE_77_length_35364_cov_7.191566#4189#4533#10864#12555",
+                "faa_id": "NODE_77_length_35364_cov_7.191566#4189#4533_8",
+                "protein_start": 10864,
+                "protein_end": 12555,
+                "E_value": 1.45e-49,
+                "distace_between_CRISPR_pro": 6331,
+                "length": 563,
+                "anno_name": "Helicase_C,SNF2_N",
+                "pfam_anno_name": "-",
+                "function": "SNF2 family N-terminal domain"
+            },
+            {
+                "protein_id": "NODE_77_length_35364_cov_7.191566#4189#4533#14586#17966",
+                "faa_id": "NODE_77_length_35364_cov_7.191566#4189#4533_12",
+                "protein_start": 14586,
+                "protein_end": 17966,
+                "E_value": 3.44e-37,
+                "distace_between_CRISPR_pro": 10053,
+                "length": 1126,
+                "anno_name": "Phage_sheath_1,Phage_sheath_1C",
+                "pfam_anno_name": "-",
+                "function": "Phage tail sheath C-terminal domain"
+            },
+            {
+                "protein_id": "NODE_77_length_35364_cov_7.191566#4189#4533#19878#20732",
+                "faa_id": "NODE_77_length_35364_cov_7.191566#4189#4533_16",
+                "protein_start": 19878,
+                "protein_end": 20732,
+                "E_value": 8.66e-15,
+                "distace_between_CRISPR_pro": 15345,
+                "length": 284,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            }
+        ]
+    },
+    {
+        "excel_id": 9241024,
+        "seq_id": "NODE_9_length_241024_cov_224.986849",
+        "CRISPR_start": 20000,
+        "CRISPR_end": 20503,
+        "proteins": [
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#3281#4723",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_6",
+                "protein_start": 3281,
+                "protein_end": 4723,
+                "E_value": 2.49e-58,
+                "distace_between_CRISPR_pro": -15277,
+                "length": 480,
+                "anno_name": "BsuBI_PstI_RE,Eco57I",
+                "pfam_anno_name": "-",
+                "function": "BsuBI/PstI restriction endonuclease C-terminus"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#10502#10948",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_16",
+                "protein_start": 10502,
+                "protein_end": 10948,
+                "E_value": 2.91e-19,
+                "distace_between_CRISPR_pro": -9052,
+                "length": 148,
+                "anno_name": "Histone_HNS",
+                "pfam_anno_name": "-",
+                "function": "protein dimerization activity"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#11219#11521",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_18",
+                "protein_start": 11219,
+                "protein_end": 11521,
+                "E_value": 8.19e-21,
+                "distace_between_CRISPR_pro": -8479,
+                "length": 100,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#13896#16232",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_23",
+                "protein_start": 13896,
+                "protein_end": 16232,
+                "E_value": 5.91e-20,
+                "distace_between_CRISPR_pro": -3768,
+                "length": 778,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "ATP-dependent helicase activity"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#19203#19883",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_27",
+                "protein_start": 19203,
+                "protein_end": 19883,
+                "E_value": 0.0001766,
+                "distace_between_CRISPR_pro": -117,
+                "length": 226,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#21360#22622",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_28",
+                "protein_start": 21360,
+                "protein_end": 22622,
+                "E_value": 1.01e-51,
+                "distace_between_CRISPR_pro": 857,
+                "length": 420,
+                "anno_name": "DUF2220,DUF3322",
+                "pfam_anno_name": "-",
+                "function": "Uncharacterized protein conserved in bacteria C-term(DUF2220)"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#22619#26128",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_29",
+                "protein_start": 22619,
+                "protein_end": 26128,
+                "E_value": 1.6e-203,
+                "distace_between_CRISPR_pro": 2116,
+                "length": 1169,
+                "anno_name": "AAA_29,SbcCD_C",
+                "pfam_anno_name": "-",
+                "function": "DNA replication and repair protein RecF"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#26130#26768",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_30",
+                "protein_start": 26130,
+                "protein_end": 26768,
+                "E_value": 9.75e-40,
+                "distace_between_CRISPR_pro": 5627,
+                "length": 212,
+                "anno_name": "DUF4194",
+                "pfam_anno_name": "-",
+                "function": "Domain of unknown function (DUF4194)"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#26784#28211",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_31",
+                "protein_start": 26784,
+                "protein_end": 28211,
+                "E_value": 1.34e-31,
+                "distace_between_CRISPR_pro": 6281,
+                "length": 475,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#29223#30074",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_34",
+                "protein_start": 29223,
+                "protein_end": 30074,
+                "E_value": 7.84e-31,
+                "distace_between_CRISPR_pro": 8720,
+                "length": 283,
+                "anno_name": "WYL",
+                "pfam_anno_name": "-",
+                "function": "transcriptional regulator"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#30071#31375",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_35",
+                "protein_start": 30071,
+                "protein_end": 31375,
+                "E_value": 0.0003294,
+                "distace_between_CRISPR_pro": 9568,
+                "length": 434,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#33177#33620",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_37",
+                "protein_start": 33177,
+                "protein_end": 33620,
+                "E_value": 2.38e-57,
+                "distace_between_CRISPR_pro": 12674,
+                "length": 147,
+                "anno_name": "TM2",
+                "pfam_anno_name": "-",
+                "function": "TM2 domain"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#35909#36904",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_41",
+                "protein_start": 35909,
+                "protein_end": 36904,
+                "E_value": 1.42e-64,
+                "distace_between_CRISPR_pro": 15406,
+                "length": 331,
+                "anno_name": "Phage_integrase",
+                "pfam_anno_name": "-",
+                "function": "Belongs to the 'phage' integrase family"
+            },
+            {
+                "protein_id": "NODE_9_length_241024_cov_224.986849#20000#20503#36933#37610",
+                "faa_id": "NODE_9_length_241024_cov_224.986849#20000#20503_42",
+                "protein_start": 36933,
+                "protein_end": 37610,
+                "E_value": 3.54e-27,
+                "distace_between_CRISPR_pro": 16430,
+                "length": 225,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            }
+        ]
+    },
+    {
+        "excel_id": 14232769,
+        "seq_id": "NODE_142_length_32769_cov_7.212111",
+        "CRISPR_start": 20000,
+        "CRISPR_end": 20345,
+        "proteins": [
+            {
+                "protein_id": "NODE_142_length_32769_cov_7.212111#20000#20345#3802#4656",
+                "faa_id": "NODE_142_length_32769_cov_7.212111#20000#20345_4",
+                "protein_start": 3802,
+                "protein_end": 4656,
+                "E_value": 8.66e-15,
+                "distace_between_CRISPR_pro": -15344,
+                "length": 284,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_142_length_32769_cov_7.212111#20000#20345#6568#9948",
+                "faa_id": "NODE_142_length_32769_cov_7.212111#20000#20345_8",
+                "protein_start": 6568,
+                "protein_end": 9948,
+                "E_value": 3.44e-37,
+                "distace_between_CRISPR_pro": -10052,
+                "length": 1126,
+                "anno_name": "Phage_sheath_1,Phage_sheath_1C",
+                "pfam_anno_name": "-",
+                "function": "Phage tail sheath C-terminal domain"
+            },
+            {
+                "protein_id": "NODE_142_length_32769_cov_7.212111#20000#20345#11979#13670",
+                "faa_id": "NODE_142_length_32769_cov_7.212111#20000#20345_12",
+                "protein_start": 11979,
+                "protein_end": 13670,
+                "E_value": 1.45e-49,
+                "distace_between_CRISPR_pro": -6330,
+                "length": 563,
+                "anno_name": "Helicase_C,SNF2_N",
+                "pfam_anno_name": "-",
+                "function": "SNF2 family N-terminal domain"
+            },
+            {
+                "protein_id": "NODE_142_length_32769_cov_7.212111#20000#20345#15305#16414",
+                "faa_id": "NODE_142_length_32769_cov_7.212111#20000#20345_15",
+                "protein_start": 15305,
+                "protein_end": 16414,
+                "E_value": 4.94e-07,
+                "distace_between_CRISPR_pro": -3586,
+                "length": 369,
+                "anno_name": "AAA_13,Peptidase_S46,Tubulin_2,VRP1",
+                "pfam_anno_name": "tcdA2",
+                "function": "DNA recombination"
+            },
+            {
+                "protein_id": "NODE_142_length_32769_cov_7.212111#20000#20345#16388#19108",
+                "faa_id": "NODE_142_length_32769_cov_7.212111#20000#20345_16",
+                "protein_start": 16388,
+                "protein_end": 19108,
+                "E_value": 4.55e-60,
+                "distace_between_CRISPR_pro": -892,
+                "length": 906,
+                "anno_name": "CarbopepD_reg_2,DNA_pol_B,DNA_pol_B_exo1,DNA_pol_B_exo2,RNase_H_2",
+                "pfam_anno_name": "polB",
+                "function": "DNA replication proofreading"
+            },
+            {
+                "protein_id": "NODE_142_length_32769_cov_7.212111#20000#20345#19635#24053",
+                "faa_id": "NODE_142_length_32769_cov_7.212111#20000#20345_18",
+                "protein_start": 19635,
+                "protein_end": 24053,
+                "E_value": 2.55e-97,
+                "distace_between_CRISPR_pro": -710,
+                "length": 1472,
+                "anno_name": "CHU_C,LRR_4,Laminin_G_3,RCC1,SprB",
+                "pfam_anno_name": "-",
+                "function": "leucine- rich repeat protein"
+            }
+        ]
+    },
+    {
+        "excel_id": 15443239,
+        "seq_id": "NODE_154_length_43239_cov_6.432591",
+        "CRISPR_start": 20000,
+        "CRISPR_end": 20866,
+        "proteins": [
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#4#2277",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_1",
+                "protein_start": 4,
+                "protein_end": 2277,
+                "E_value": 3.53e-218,
+                "distace_between_CRISPR_pro": -17723,
+                "length": 757,
+                "anno_name": "EAL,GGDEF,PAS_3,PAS_4,PAS_9",
+                "pfam_anno_name": "-",
+                "function": "Diguanylate cyclase"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#2333#4006",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_2",
+                "protein_start": 2333,
+                "protein_end": 4006,
+                "E_value": 1.2e-199,
+                "distace_between_CRISPR_pro": -15994,
+                "length": 557,
+                "anno_name": "HAMP,MCPsignal,dCache_2,sCache_2",
+                "pfam_anno_name": "-",
+                "function": "methyl-accepting chemotaxis protein"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#4310#4801",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_3",
+                "protein_start": 4310,
+                "protein_end": 4801,
+                "E_value": 1.28e-83,
+                "distace_between_CRISPR_pro": -15199,
+                "length": 163,
+                "anno_name": "RraA-like",
+                "pfam_anno_name": "menG",
+                "function": "Catalyzes the aldol cleavage of 4-hydroxy-4-methyl-2- oxoglutarate (HMG) into 2 molecules of pyruvate. Also contains a secondary oxaloacetate (OAA) decarboxylase activity due to the common pyruvate enolate transition state formed following C-C bond cleavage in the retro-aldol and decarboxylation reactions"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#5495#6652",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_5",
+                "protein_start": 5495,
+                "protein_end": 6652,
+                "E_value": 1.39e-242,
+                "distace_between_CRISPR_pro": -13348,
+                "length": 385,
+                "anno_name": "Peptidase_M14",
+                "pfam_anno_name": "-",
+                "function": "PFAM peptidase M14 carboxypeptidase A"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#6652#6999",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_6",
+                "protein_start": 6652,
+                "protein_end": 6999,
+                "E_value": 1.04e-54,
+                "distace_between_CRISPR_pro": -13001,
+                "length": 115,
+                "anno_name": "MazG-like",
+                "pfam_anno_name": "-",
+                "function": "MazG-like family"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#7182#7754",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_7",
+                "protein_start": 7182,
+                "protein_end": 7754,
+                "E_value": 3.17e-106,
+                "distace_between_CRISPR_pro": -12246,
+                "length": 190,
+                "anno_name": "EFP,EFP_N,Elong-fact-P_C",
+                "pfam_anno_name": "-",
+                "function": "Elongation factor P"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#7961#8515",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_8",
+                "protein_start": 7961,
+                "protein_end": 8515,
+                "E_value": 4.49e-106,
+                "distace_between_CRISPR_pro": -11485,
+                "length": 184,
+                "anno_name": "YaeQ",
+                "pfam_anno_name": "-",
+                "function": "protein conserved in bacteria"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#8554#9297",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_9",
+                "protein_start": 8554,
+                "protein_end": 9297,
+                "E_value": 6.31e-158,
+                "distace_between_CRISPR_pro": -10703,
+                "length": 247,
+                "anno_name": "DLH",
+                "pfam_anno_name": "-",
+                "function": "Dienelactone hydrolase"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#9597#10550",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_10",
+                "protein_start": 9597,
+                "protein_end": 10550,
+                "E_value": 1.71e-147,
+                "distace_between_CRISPR_pro": -9450,
+                "length": 317,
+                "anno_name": "DUF3524,Glycos_transf_1",
+                "pfam_anno_name": "-",
+                "function": "Glycosyl transferase"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#10661#11488",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_11",
+                "protein_start": 10661,
+                "protein_end": 11488,
+                "E_value": 8.29e-144,
+                "distace_between_CRISPR_pro": -8512,
+                "length": 275,
+                "anno_name": "WYL",
+                "pfam_anno_name": "-",
+                "function": "WYL domain"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#11622#12596",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_12",
+                "protein_start": 11622,
+                "protein_end": 12596,
+                "E_value": 5e-76,
+                "distace_between_CRISPR_pro": 974,
+                "length": 324,
+                "anno_name": "1_Cas1_out.xls",
+                "pfam_anno_name": "1_Cas1_out.xls",
+                "function": "1_Cas1_out.xls"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#11622#12596",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_12",
+                "protein_start": 11622,
+                "protein_end": 12596,
+                "E_value": 6.64e-148,
+                "distace_between_CRISPR_pro": -7404,
+                "length": 324,
+                "anno_name": "Cas_Cas1",
+                "pfam_anno_name": "cas1",
+                "function": "CRISPR (clustered regularly interspaced short palindromic repeat), is an adaptive immune system that provides protection against mobile genetic elements (viruses, transposable elements and conjugative plasmids). CRISPR clusters contain spacers, sequences complementary to antecedent mobile elements, and target invading nucleic acids. CRISPR clusters are transcribed and processed into CRISPR RNA (crRNA). Acts as a dsDNA endonuclease. Involved in the integration of spacer DNA into the CRISPR cassette"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#12593#15970",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_13",
+                "protein_start": 12593,
+                "protein_end": 15970,
+                "E_value": 0.0,
+                "distace_between_CRISPR_pro": -4030,
+                "length": 1125,
+                "anno_name": "ResIII",
+                "pfam_anno_name": "cas3",
+                "function": "TIGRFAM CRISPR-associated helicase Cas3 family"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#15987#17342",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_14",
+                "protein_start": 15987,
+                "protein_end": 17342,
+                "E_value": 3.25e-103,
+                "distace_between_CRISPR_pro": -2658,
+                "length": 451,
+                "anno_name": "Cas_Csy1",
+                "pfam_anno_name": "-",
+                "function": "CRISPR-associated protein (Cas_Csy1)"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#17342#18295",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_15",
+                "protein_start": 17342,
+                "protein_end": 18295,
+                "E_value": 6.08e-82,
+                "distace_between_CRISPR_pro": -1705,
+                "length": 317,
+                "anno_name": "Cas_Csy2",
+                "pfam_anno_name": "-",
+                "function": "CRISPR-associated protein (Cas_Csy2)"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#18297#19301",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_16",
+                "protein_start": 18297,
+                "protein_end": 19301,
+                "E_value": 8.09e-136,
+                "distace_between_CRISPR_pro": -699,
+                "length": 334,
+                "anno_name": "Cas_Csy3",
+                "pfam_anno_name": "csy3",
+                "function": "CRISPR-associated protein (Cas_Csy3)"
+            },
+            {
+                "protein_id": "NODE_154_length_43239_cov_6.432591#20000#20866#19311#19871",
+                "faa_id": "NODE_154_length_43239_cov_6.432591#20000#20866_17",
+                "protein_start": 19311,
+                "protein_end": 19871,
+                "E_value": 7e-47,
+                "distace_between_CRISPR_pro": -129,
+                "length": 186,
+                "anno_name": "Cas_Csy4",
+                "pfam_anno_name": "cas6f",
+                "function": "crispr-associated protein, csy4"
+            }
+        ]
+    },
+    {
+        "excel_id": 18358648,
+        "seq_id": "NODE_1835_length_8648_cov_13.419760",
+        "CRISPR_start": 3894,
+        "CRISPR_end": 4362,
+        "proteins": [
+            {
+                "protein_id": "NODE_1835_length_8648_cov_13.419760#3894#4362#1#765",
+                "faa_id": "NODE_1835_length_8648_cov_13.419760#3894#4362_1",
+                "protein_start": 1,
+                "protein_end": 765,
+                "E_value": 4.7e-15,
+                "distace_between_CRISPR_pro": -3129,
+                "length": 254,
+                "anno_name": "C4,Collagen",
+                "pfam_anno_name": "COL4A2",
+                "function": "collagen-activated tyrosine kinase receptor signaling pathway"
+            },
+            {
+                "protein_id": "NODE_1835_length_8648_cov_13.419760#3894#4362#921#2345",
+                "faa_id": "NODE_1835_length_8648_cov_13.419760#3894#4362_2",
+                "protein_start": 921,
+                "protein_end": 2345,
+                "E_value": 1.05e-18,
+                "distace_between_CRISPR_pro": -1549,
+                "length": 474,
+                "anno_name": "CHRD",
+                "pfam_anno_name": "-",
+                "function": "superoxide dismutase activity"
+            },
+            {
+                "protein_id": "NODE_1835_length_8648_cov_13.419760#3894#4362#4820#6850",
+                "faa_id": "NODE_1835_length_8648_cov_13.419760#3894#4362_4",
+                "protein_start": 4820,
+                "protein_end": 6850,
+                "E_value": 1.01e-19,
+                "distace_between_CRISPR_pro": 458,
+                "length": 676,
+                "anno_name": "Glycos_transf_2",
+                "pfam_anno_name": "-",
+                "function": "Glycosyl transferase family 2"
+            },
+            {
+                "protein_id": "NODE_1835_length_8648_cov_13.419760#3894#4362#6847#8208",
+                "faa_id": "NODE_1835_length_8648_cov_13.419760#3894#4362_5",
+                "protein_start": 6847,
+                "protein_end": 8208,
+                "E_value": 0.0001156,
+                "distace_between_CRISPR_pro": 2485,
+                "length": 453,
+                "anno_name": "Glyco_tranf_2_4",
+                "pfam_anno_name": "-",
+                "function": "Glycosyl transferase family 2"
+            }
+        ]
+    },
+    {
+        "excel_id": 18679641,
+        "seq_id": "NODE_1867_length_9641_cov_10.718965",
+        "CRISPR_start": 5836,
+        "CRISPR_end": 6194,
+        "proteins": [
+            {
+                "protein_id": "NODE_1867_length_9641_cov_10.718965#5836#6194#2396#3295",
+                "faa_id": "NODE_1867_length_9641_cov_10.718965#5836#6194_6",
+                "protein_start": 2396,
+                "protein_end": 3295,
+                "E_value": 6.04e-11,
+                "distace_between_CRISPR_pro": -2541,
+                "length": 299,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_1867_length_9641_cov_10.718965#5836#6194#3600#4250",
+                "faa_id": "NODE_1867_length_9641_cov_10.718965#5836#6194_8",
+                "protein_start": 3600,
+                "protein_end": 4250,
+                "E_value": 1.93e-08,
+                "distace_between_CRISPR_pro": -1586,
+                "length": 216,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_1867_length_9641_cov_10.718965#5836#6194#6697#8094",
+                "faa_id": "NODE_1867_length_9641_cov_10.718965#5836#6194_13",
+                "protein_start": 6697,
+                "protein_end": 8094,
+                "E_value": 5.22e-05,
+                "distace_between_CRISPR_pro": 503,
+                "length": 465,
+                "anno_name": "Collar",
+                "pfam_anno_name": "-",
+                "function": "Phage Tail Collar Domain"
+            },
+            {
+                "protein_id": "NODE_1867_length_9641_cov_10.718965#5836#6194#8094#9641",
+                "faa_id": "NODE_1867_length_9641_cov_10.718965#5836#6194_14",
+                "protein_start": 8094,
+                "protein_end": 9641,
+                "E_value": 1.92e-19,
+                "distace_between_CRISPR_pro": 1900,
+                "length": 515,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane"
+            }
+        ]
+    },
+    {
+        "excel_id": 20159581,
+        "seq_id": "NODE_2015_length_9581_cov_16.628071",
+        "CRISPR_start": 5836,
+        "CRISPR_end": 6194,
+        "proteins": [
+            {
+                "protein_id": "NODE_2015_length_9581_cov_16.628071#5836#6194#2396#3295",
+                "faa_id": "NODE_2015_length_9581_cov_16.628071#5836#6194_6",
+                "protein_start": 2396,
+                "protein_end": 3295,
+                "E_value": 6.04e-11,
+                "distace_between_CRISPR_pro": -2541,
+                "length": 299,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_2015_length_9581_cov_16.628071#5836#6194#3600#4250",
+                "faa_id": "NODE_2015_length_9581_cov_16.628071#5836#6194_8",
+                "protein_start": 3600,
+                "protein_end": 4250,
+                "E_value": 1.93e-08,
+                "distace_between_CRISPR_pro": -1586,
+                "length": 216,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_2015_length_9581_cov_16.628071#5836#6194#6697#8094",
+                "faa_id": "NODE_2015_length_9581_cov_16.628071#5836#6194_13",
+                "protein_start": 6697,
+                "protein_end": 8094,
+                "E_value": 5.22e-05,
+                "distace_between_CRISPR_pro": 503,
+                "length": 465,
+                "anno_name": "Collar",
+                "pfam_anno_name": "-",
+                "function": "Phage Tail Collar Domain"
+            },
+            {
+                "protein_id": "NODE_2015_length_9581_cov_16.628071#5836#6194#8094#9581",
+                "faa_id": "NODE_2015_length_9581_cov_16.628071#5836#6194_14",
+                "protein_start": 8094,
+                "protein_end": 9581,
+                "E_value": 1.67e-19,
+                "distace_between_CRISPR_pro": 1900,
+                "length": 495,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane"
+            }
+        ]
+    },
+    {
+        "excel_id": 24667355,
+        "seq_id": "NODE_2466_length_7355_cov_8.725479",
+        "CRISPR_start": 177,
+        "CRISPR_end": 516,
+        "proteins": [
+            {
+                "protein_id": "NODE_2466_length_7355_cov_8.725479#177#516#1#966",
+                "faa_id": "NODE_2466_length_7355_cov_8.725479#177#516_1",
+                "protein_start": 1,
+                "protein_end": 966,
+                "E_value": 1.99e-62,
+                "distace_between_CRISPR_pro": -515,
+                "length": 321,
+                "anno_name": "BACON,DUF285,LRR_5",
+                "pfam_anno_name": "-",
+                "function": "Bacterial surface protein 26-residue PARCEL"
+            },
+            {
+                "protein_id": "NODE_2466_length_7355_cov_8.725479#177#516#3965#5563",
+                "faa_id": "NODE_2466_length_7355_cov_8.725479#177#516_7",
+                "protein_start": 3965,
+                "protein_end": 5563,
+                "E_value": 2.37e-36,
+                "distace_between_CRISPR_pro": 3449,
+                "length": 532,
+                "anno_name": "Terminase_6,Terminase_6C",
+                "pfam_anno_name": "gp17a",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_2466_length_7355_cov_8.725479#177#516#5644#7353",
+                "faa_id": "NODE_2466_length_7355_cov_8.725479#177#516_8",
+                "protein_start": 5644,
+                "protein_end": 7353,
+                "E_value": 5.86e-64,
+                "distace_between_CRISPR_pro": 5128,
+                "length": 569,
+                "anno_name": "Baseplate_J,PA14,Phage_sheath_1,Phage_sheath_1C,fn3",
+                "pfam_anno_name": "-",
+                "function": "Phage tail sheath protein subtilisin-like domain"
+            }
+        ]
+    },
+    {
+        "excel_id": 26685788,
+        "seq_id": "NODE_2668_length_5788_cov_4.308390",
+        "CRISPR_start": 2285,
+        "CRISPR_end": 2642,
+        "proteins": [
+            {
+                "protein_id": "NODE_2668_length_5788_cov_4.308390#2285#2642#1#384",
+                "faa_id": "NODE_2668_length_5788_cov_4.308390#2285#2642_1",
+                "protein_start": 1,
+                "protein_end": 384,
+                "E_value": 7.25e-08,
+                "distace_between_CRISPR_pro": -1901,
+                "length": 127,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane"
+            },
+            {
+                "protein_id": "NODE_2668_length_5788_cov_4.308390#2285#2642#384#1781",
+                "faa_id": "NODE_2668_length_5788_cov_4.308390#2285#2642_2",
+                "protein_start": 384,
+                "protein_end": 1781,
+                "E_value": 5.22e-05,
+                "distace_between_CRISPR_pro": -504,
+                "length": 465,
+                "anno_name": "Collar",
+                "pfam_anno_name": "-",
+                "function": "Phage Tail Collar Domain"
+            },
+            {
+                "protein_id": "NODE_2668_length_5788_cov_4.308390#2285#2642#4228#4878",
+                "faa_id": "NODE_2668_length_5788_cov_4.308390#2285#2642_7",
+                "protein_start": 4228,
+                "protein_end": 4878,
+                "E_value": 1.93e-08,
+                "distace_between_CRISPR_pro": 1586,
+                "length": 216,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_2668_length_5788_cov_4.308390#2285#2642#5183#5788",
+                "faa_id": "NODE_2668_length_5788_cov_4.308390#2285#2642_9",
+                "protein_start": 5183,
+                "protein_end": 5788,
+                "E_value": 9.2e-12,
+                "distace_between_CRISPR_pro": 2541,
+                "length": 201,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            }
+        ]
+    },
+    {
+        "excel_id": 30325587,
+        "seq_id": "NODE_303_length_25587_cov_8.929422",
+        "CRISPR_start": 531,
+        "CRISPR_end": 784,
+        "proteins": [
+            {
+                "protein_id": "NODE_303_length_25587_cov_8.929422#531#784#213#959",
+                "faa_id": "NODE_303_length_25587_cov_8.929422#531#784_2",
+                "protein_start": 213,
+                "protein_end": 959,
+                "E_value": 2.89e-06,
+                "distace_between_CRISPR_pro": -571,
+                "length": 248,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_303_length_25587_cov_8.929422#531#784#2066#3250",
+                "faa_id": "NODE_303_length_25587_cov_8.929422#531#784_6",
+                "protein_start": 2066,
+                "protein_end": 3250,
+                "E_value": 6.97e-82,
+                "distace_between_CRISPR_pro": 1282,
+                "length": 394,
+                "anno_name": "Terminase_3,Terminase_3C",
+                "pfam_anno_name": "-",
+                "function": "Phage terminase, large subunit, PBSX family"
+            },
+            {
+                "protein_id": "NODE_303_length_25587_cov_8.929422#531#784#7980#11027",
+                "faa_id": "NODE_303_length_25587_cov_8.929422#531#784_11",
+                "protein_start": 7980,
+                "protein_end": 11027,
+                "E_value": 1.3e-05,
+                "distace_between_CRISPR_pro": 7196,
+                "length": 1015,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_303_length_25587_cov_8.929422#531#784#11059#12282",
+                "faa_id": "NODE_303_length_25587_cov_8.929422#531#784_12",
+                "protein_start": 11059,
+                "protein_end": 12282,
+                "E_value": 0.0005173,
+                "distace_between_CRISPR_pro": 10275,
+                "length": 407,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_303_length_25587_cov_8.929422#531#784#14104#14934",
+                "faa_id": "NODE_303_length_25587_cov_8.929422#531#784_14",
+                "protein_start": 14104,
+                "protein_end": 14934,
+                "E_value": 2.84e-08,
+                "distace_between_CRISPR_pro": 13320,
+                "length": 276,
+                "anno_name": "ESPR,YadA_anchor,YadA_head,YadA_stalk",
+                "pfam_anno_name": "-",
+                "function": "Autotransporter adhesin"
+            },
+            {
+                "protein_id": "NODE_303_length_25587_cov_8.929422#531#784#15033#18026",
+                "faa_id": "NODE_303_length_25587_cov_8.929422#531#784_15",
+                "protein_start": 15033,
+                "protein_end": 18026,
+                "E_value": 2.2e-05,
+                "distace_between_CRISPR_pro": 14249,
+                "length": 997,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "nuclear chromosome segregation"
+            },
+            {
+                "protein_id": "NODE_303_length_25587_cov_8.929422#531#784#18030#19001",
+                "faa_id": "NODE_303_length_25587_cov_8.929422#531#784_16",
+                "protein_start": 18030,
+                "protein_end": 19001,
+                "E_value": 2e-08,
+                "distace_between_CRISPR_pro": 17246,
+                "length": 323,
+                "anno_name": "MethyltransfD12,Peptidase_S78_2",
+                "pfam_anno_name": "yqbD",
+                "function": "D12 class N6 adenine-specific DNA methyltransferase"
+            },
+            {
+                "protein_id": "NODE_303_length_25587_cov_8.929422#531#784#20274#20783",
+                "faa_id": "NODE_303_length_25587_cov_8.929422#531#784_19",
+                "protein_start": 20274,
+                "protein_end": 20783,
+                "E_value": 3.44e-05,
+                "distace_between_CRISPR_pro": 19490,
+                "length": 169,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            }
+        ]
+    },
+    {
+        "excel_id": 33416756,
+        "seq_id": "NODE_3341_length_6756_cov_3.151171",
+        "CRISPR_start": 374,
+        "CRISPR_end": 784,
+        "proteins": [
+            {
+                "protein_id": "NODE_3341_length_6756_cov_3.151171#374#784#4163#6754",
+                "faa_id": "NODE_3341_length_6756_cov_3.151171#374#784_3",
+                "protein_start": 4163,
+                "protein_end": 6754,
+                "E_value": 0.0006617,
+                "distace_between_CRISPR_pro": 3379,
+                "length": 863,
+                "anno_name": "Big_2,CHAP,GBS_Bsp-like,Glyco_hydro_25,RicinB_lectin_2",
+                "pfam_anno_name": "-",
+                "function": "pathogenesis"
+            }
+        ]
+    },
+    {
+        "excel_id": 36816372,
+        "seq_id": "NODE_3681_length_6372_cov_6.314390",
+        "CRISPR_start": 6010,
+        "CRISPR_end": 6337,
+        "proteins": [
+            {
+                "protein_id": "NODE_3681_length_6372_cov_6.314390#6010#6337#3#590",
+                "faa_id": "NODE_3681_length_6372_cov_6.314390#6010#6337_1",
+                "protein_start": 3,
+                "protein_end": 590,
+                "E_value": 4.4e-107,
+                "distace_between_CRISPR_pro": -5420,
+                "length": 195,
+                "anno_name": "GST_C,GST_C_2,GST_N,GST_N_3",
+                "pfam_anno_name": "gst5",
+                "function": "Glutathione S-transferase, C-terminal domain"
+            },
+            {
+                "protein_id": "NODE_3681_length_6372_cov_6.314390#6010#6337#683#1573",
+                "faa_id": "NODE_3681_length_6372_cov_6.314390#6010#6337_2",
+                "protein_start": 683,
+                "protein_end": 1573,
+                "E_value": 1.71e-160,
+                "distace_between_CRISPR_pro": -4437,
+                "length": 296,
+                "anno_name": "HTH_1,LysR_substrate",
+                "pfam_anno_name": "-",
+                "function": "transcriptional regulator"
+            },
+            {
+                "protein_id": "NODE_3681_length_6372_cov_6.314390#6010#6337#1722#3341",
+                "faa_id": "NODE_3681_length_6372_cov_6.314390#6010#6337_3",
+                "protein_start": 1722,
+                "protein_end": 3341,
+                "E_value": 4.49e-213,
+                "distace_between_CRISPR_pro": -2669,
+                "length": 539,
+                "anno_name": "Proton_antipo_M",
+                "pfam_anno_name": "-",
+                "function": "Proton-conducting membrane transporter"
+            },
+            {
+                "protein_id": "NODE_3681_length_6372_cov_6.314390#6010#6337#3338#5719",
+                "faa_id": "NODE_3681_length_6372_cov_6.314390#6010#6337_4",
+                "protein_start": 3338,
+                "protein_end": 5719,
+                "E_value": 0.0,
+                "distace_between_CRISPR_pro": -291,
+                "length": 793,
+                "anno_name": "DUF2309",
+                "pfam_anno_name": "-",
+                "function": "Belongs to the UPF0753 family"
+            }
+        ]
+    },
+    {
+        "excel_id": 40696387,
+        "seq_id": "NODE_4069_length_6387_cov_3.657138",
+        "CRISPR_start": 1281,
+        "CRISPR_end": 1561,
+        "proteins": [
+            {
+                "protein_id": "NODE_4069_length_6387_cov_3.657138#1281#1561#3576#4466",
+                "faa_id": "NODE_4069_length_6387_cov_3.657138#1281#1561_8",
+                "protein_start": 3576,
+                "protein_end": 4466,
+                "E_value": 4.42e-18,
+                "distace_between_CRISPR_pro": 2015,
+                "length": 296,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_4069_length_6387_cov_3.657138#1281#1561#5729#6385",
+                "faa_id": "NODE_4069_length_6387_cov_3.657138#1281#1561_11",
+                "protein_start": 5729,
+                "protein_end": 6385,
+                "E_value": 8.8e-77,
+                "distace_between_CRISPR_pro": 4168,
+                "length": 218,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            }
+        ]
+    },
+    {
+        "excel_id": 50975530,
+        "seq_id": "NODE_5097_length_5530_cov_3.899726",
+        "CRISPR_start": 5150,
+        "CRISPR_end": 5507,
+        "proteins": [
+            {
+                "protein_id": "NODE_5097_length_5530_cov_3.899726#5150#5507#1710#2609",
+                "faa_id": "NODE_5097_length_5530_cov_3.899726#5150#5507_6",
+                "protein_start": 1710,
+                "protein_end": 2609,
+                "E_value": 6.04e-11,
+                "distace_between_CRISPR_pro": -2541,
+                "length": 299,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            },
+            {
+                "protein_id": "NODE_5097_length_5530_cov_3.899726#5150#5507#2914#3564",
+                "faa_id": "NODE_5097_length_5530_cov_3.899726#5150#5507_8",
+                "protein_start": 2914,
+                "protein_end": 3564,
+                "E_value": 1.93e-08,
+                "distace_between_CRISPR_pro": -1586,
+                "length": 216,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            }
+        ]
+    },
+    {
+        "excel_id": 59294962,
+        "seq_id": "NODE_5929_length_4962_cov_3.705319",
+        "CRISPR_start": 3449,
+        "CRISPR_end": 3806,
+        "proteins": [
+            {
+                "protein_id": "NODE_5929_length_4962_cov_3.705319#3449#3806#1#1548",
+                "faa_id": "NODE_5929_length_4962_cov_3.705319#3449#3806_1",
+                "protein_start": 1,
+                "protein_end": 1548,
+                "E_value": 1.92e-19,
+                "distace_between_CRISPR_pro": -1901,
+                "length": 515,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane"
+            },
+            {
+                "protein_id": "NODE_5929_length_4962_cov_3.705319#3449#3806#1548#2945",
+                "faa_id": "NODE_5929_length_4962_cov_3.705319#3449#3806_2",
+                "protein_start": 1548,
+                "protein_end": 2945,
+                "E_value": 5.22e-05,
+                "distace_between_CRISPR_pro": -504,
+                "length": 465,
+                "anno_name": "Collar",
+                "pfam_anno_name": "-",
+                "function": "Phage Tail Collar Domain"
+            }
+        ]
+    },
+    {
+        "excel_id": 63354286,
+        "seq_id": "NODE_6335_length_4286_cov_3.741432",
+        "CRISPR_start": 2847,
+        "CRISPR_end": 3143,
+        "proteins": [
+            {
+                "protein_id": "NODE_6335_length_4286_cov_3.741432#2847#3143#1#765",
+                "faa_id": "NODE_6335_length_4286_cov_3.741432#2847#3143_1",
+                "protein_start": 1,
+                "protein_end": 765,
+                "E_value": 3.23e-10,
+                "distace_between_CRISPR_pro": -2082,
+                "length": 254,
+                "anno_name": "Phage_capsid",
+                "pfam_anno_name": "-",
+                "function": "Phage capsid family"
+            },
+            {
+                "protein_id": "NODE_6335_length_4286_cov_3.741432#2847#3143#3249#4286",
+                "faa_id": "NODE_6335_length_4286_cov_3.741432#2847#3143_4",
+                "protein_start": 3249,
+                "protein_end": 4286,
+                "E_value": 3e-08,
+                "distace_between_CRISPR_pro": 1037,
+                "length": 345,
+                "anno_name": "1_C2c8_out.xls",
+                "pfam_anno_name": "1_C2c8_out.xls",
+                "function": "1_C2c8_out.xls"
+            },
+            {
+                "protein_id": "NODE_6335_length_4286_cov_3.741432#2847#3143#3249#4286",
+                "faa_id": "NODE_6335_length_4286_cov_3.741432#2847#3143_4",
+                "protein_start": 3249,
+                "protein_end": 4286,
+                "E_value": 6.2e-08,
+                "distace_between_CRISPR_pro": 1037,
+                "length": 345,
+                "anno_name": "1_PF07282_out.xls",
+                "pfam_anno_name": "1_PF07282_out.xls",
+                "function": "1_PF07282_out.xls"
+            },
+            {
+                "protein_id": "NODE_6335_length_4286_cov_3.741432#2847#3143#3249#4286",
+                "faa_id": "NODE_6335_length_4286_cov_3.741432#2847#3143_4",
+                "protein_start": 3249,
+                "protein_end": 4286,
+                "E_value": 1.23e-30,
+                "distace_between_CRISPR_pro": 106,
+                "length": 345,
+                "anno_name": "OrfB_Zn_ribbon",
+                "pfam_anno_name": "-",
+                "function": "Transposase, IS605 OrfB family"
+            }
+        ]
+    },
+    {
+        "excel_id": 84653703,
+        "seq_id": "NODE_8465_length_3703_cov_24.281524",
+        "CRISPR_start": 97,
+        "CRISPR_end": 326,
+        "proteins": [
+            {
+                "protein_id": "NODE_8465_length_3703_cov_24.281524#97#326#416#3703",
+                "faa_id": "NODE_8465_length_3703_cov_24.281524#97#326_2",
+                "protein_start": 416,
+                "protein_end": 3703,
+                "E_value": 1.49e-71,
+                "distace_between_CRISPR_pro": 90,
+                "length": 1095,
+                "anno_name": "DNA_pol_B_2",
+                "pfam_anno_name": "-",
+                "function": "DNA polymerase type B, organellar and viral"
+            }
+        ]
+    },
+    {
+        "excel_id": 90913183,
+        "seq_id": "NODE_9091_length_3183_cov_15.370205",
+        "CRISPR_start": 451,
+        "CRISPR_end": 719,
+        "proteins": [
+            {
+                "protein_id": "NODE_9091_length_3183_cov_15.370205#451#719#97#930",
+                "faa_id": "NODE_9091_length_3183_cov_15.370205#451#719_1",
+                "protein_start": 97,
+                "protein_end": 930,
+                "E_value": 9.91e-12,
+                "distace_between_CRISPR_pro": -622,
+                "length": 277,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "GIY-YIG type nucleases (URI domain)"
+            },
+            {
+                "protein_id": "NODE_9091_length_3183_cov_15.370205#451#719#2439#3182",
+                "faa_id": "NODE_9091_length_3183_cov_15.370205#451#719_4",
+                "protein_start": 2439,
+                "protein_end": 3182,
+                "E_value": 1.84e-36,
+                "distace_between_CRISPR_pro": 1720,
+                "length": 247,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "repeat protein"
+            }
+        ]
+    },
+    {
+        "excel_id": 94463112,
+        "seq_id": "NODE_9446_length_3112_cov_12.298005",
+        "CRISPR_start": 712,
+        "CRISPR_end": 978,
+        "proteins": [
+            {
+                "protein_id": "NODE_9446_length_3112_cov_12.298005#712#978#163#438",
+                "faa_id": "NODE_9446_length_3112_cov_12.298005#712#978_2",
+                "protein_start": 163,
+                "protein_end": 438,
+                "E_value": 9.88e-39,
+                "distace_between_CRISPR_pro": -274,
+                "length": 91,
+                "anno_name": "GIY-YIG",
+                "pfam_anno_name": "-",
+                "function": "PFAM Excinuclease ABC, C subunit"
+            },
+            {
+                "protein_id": "NODE_9446_length_3112_cov_12.298005#712#978#990#1841",
+                "faa_id": "NODE_9446_length_3112_cov_12.298005#712#978_3",
+                "protein_start": 990,
+                "protein_end": 1841,
+                "E_value": 9.57e-132,
+                "distace_between_CRISPR_pro": 12,
+                "length": 283,
+                "anno_name": "Bro-N",
+                "pfam_anno_name": "-",
+                "function": "BRO family, N-terminal domain"
+            },
+            {
+                "protein_id": "NODE_9446_length_3112_cov_12.298005#712#978#1967#2794",
+                "faa_id": "NODE_9446_length_3112_cov_12.298005#712#978_4",
+                "protein_start": 1967,
+                "protein_end": 2794,
+                "E_value": 3.3e-141,
+                "distace_between_CRISPR_pro": 989,
+                "length": 275,
+                "anno_name": "WYL",
+                "pfam_anno_name": "-",
+                "function": "WYL domain"
+            }
+        ]
+    },
+    {
+        "excel_id": 101823818,
+        "seq_id": "NODE_10182_length_3818_cov_5.035876",
+        "CRISPR_start": 820,
+        "CRISPR_end": 1164,
+        "proteins": [
+            {
+                "protein_id": "NODE_10182_length_3818_cov_5.035876#820#1164#1#1527",
+                "faa_id": "NODE_10182_length_3818_cov_5.035876#820#1164_1",
+                "protein_start": 1,
+                "protein_end": 1527,
+                "E_value": 4.66e-63,
+                "distace_between_CRISPR_pro": -1163,
+                "length": 508,
+                "anno_name": "LRR_4",
+                "pfam_anno_name": "-",
+                "function": "leucine- rich repeat protein"
+            },
+            {
+                "protein_id": "NODE_10182_length_3818_cov_5.035876#820#1164#2054#3169",
+                "faa_id": "NODE_10182_length_3818_cov_5.035876#820#1164_3",
+                "protein_start": 2054,
+                "protein_end": 3169,
+                "E_value": 1.57e-25,
+                "distace_between_CRISPR_pro": 890,
+                "length": 371,
+                "anno_name": "DNA_pol_B,DNA_pol_B_exo1",
+                "pfam_anno_name": "-",
+                "function": "SMART DNA-directed DNA polymerase B"
+            },
+            {
+                "protein_id": "NODE_10182_length_3818_cov_5.035876#820#1164#3188#3817",
+                "faa_id": "NODE_10182_length_3818_cov_5.035876#820#1164_4",
+                "protein_start": 3188,
+                "protein_end": 3817,
+                "E_value": 2.65e-19,
+                "distace_between_CRISPR_pro": 2024,
+                "length": 209,
+                "anno_name": "CarbopepD_reg_2,DNA_pol_B,DNA_pol_B_exo1,DNA_pol_B_exo2,RNase_H_2",
+                "pfam_anno_name": "polB",
+                "function": "DNA replication proofreading"
+            }
+        ]
+    },
+    {
+        "excel_id": 103452941,
+        "seq_id": "NODE_10345_length_2941_cov_8.493763",
+        "CRISPR_start": 545,
+        "CRISPR_end": 927,
+        "proteins": [
+            {
+                "protein_id": "NODE_10345_length_2941_cov_8.493763#545#927#214#2940",
+                "faa_id": "NODE_10345_length_2941_cov_8.493763#545#927_2",
+                "protein_start": 214,
+                "protein_end": 2940,
+                "E_value": 1.81e-40,
+                "distace_between_CRISPR_pro": -713,
+                "length": 908,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            }
+        ]
+    },
+    {
+        "excel_id": 104514230,
+        "seq_id": "NODE_1045_length_14230_cov_6.096226",
+        "CRISPR_start": 11759,
+        "CRISPR_end": 13473,
+        "proteins": [
+            {
+                "protein_id": "NODE_1045_length_14230_cov_6.096226#11759#13473#198#1481",
+                "faa_id": "NODE_1045_length_14230_cov_6.096226#11759#13473_2",
+                "protein_start": 198,
+                "protein_end": 1481,
+                "E_value": 3.44e-184,
+                "distace_between_CRISPR_pro": -10278,
+                "length": 427,
+                "anno_name": "Phage_int_SAM_5,Phage_integrase",
+                "pfam_anno_name": "-",
+                "function": "Phage integrase SAM-like domain"
+            },
+            {
+                "protein_id": "NODE_1045_length_14230_cov_6.096226#11759#13473#2630#2899",
+                "faa_id": "NODE_1045_length_14230_cov_6.096226#11759#13473_4",
+                "protein_start": 2630,
+                "protein_end": 2899,
+                "E_value": 3.27e-31,
+                "distace_between_CRISPR_pro": -8860,
+                "length": 89,
+                "anno_name": "HTH_17",
+                "pfam_anno_name": "-",
+                "function": "Helix-turn-helix domain"
+            },
+            {
+                "protein_id": "NODE_1045_length_14230_cov_6.096226#11759#13473#2909#4573",
+                "faa_id": "NODE_1045_length_14230_cov_6.096226#11759#13473_5",
+                "protein_start": 2909,
+                "protein_end": 4573,
+                "E_value": 4.64e-83,
+                "distace_between_CRISPR_pro": -7186,
+                "length": 554,
+                "anno_name": "D5_N,Pox_D5",
+                "pfam_anno_name": "-",
+                "function": "D5 N terminal like"
+            },
+            {
+                "protein_id": "NODE_1045_length_14230_cov_6.096226#11759#13473#4563#5468",
+                "faa_id": "NODE_1045_length_14230_cov_6.096226#11759#13473_6",
+                "protein_start": 4563,
+                "protein_end": 5468,
+                "E_value": 5.14e-33,
+                "distace_between_CRISPR_pro": -6291,
+                "length": 301,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "COG NOG08810 non supervised orthologous group"
+            },
+            {
+                "protein_id": "NODE_1045_length_14230_cov_6.096226#11759#13473#5646#10349",
+                "faa_id": "NODE_1045_length_14230_cov_6.096226#11759#13473_7",
+                "protein_start": 5646,
+                "protein_end": 10349,
+                "E_value": 7.3e-13,
+                "distace_between_CRISPR_pro": 4703,
+                "length": 1567,
+                "anno_name": "1_Cas9_BH_out.xls",
+                "pfam_anno_name": "1_Cas9_BH_out.xls",
+                "function": "1_Cas9_BH_out.xls"
+            },
+            {
+                "protein_id": "NODE_1045_length_14230_cov_6.096226#11759#13473#5646#10349",
+                "faa_id": "NODE_1045_length_14230_cov_6.096226#11759#13473_7",
+                "protein_start": 5646,
+                "protein_end": 10349,
+                "E_value": 3.9e-54,
+                "distace_between_CRISPR_pro": 4703,
+                "length": 1567,
+                "anno_name": "1_Cas9_RuvCIII_out.xls",
+                "pfam_anno_name": "1_Cas9_RuvCIII_out.xls",
+                "function": "1_Cas9_RuvCIII_out.xls"
+            },
+            {
+                "protein_id": "NODE_1045_length_14230_cov_6.096226#11759#13473#5646#10349",
+                "faa_id": "NODE_1045_length_14230_cov_6.096226#11759#13473_7",
+                "protein_start": 5646,
+                "protein_end": 10349,
+                "E_value": 5.4e-64,
+                "distace_between_CRISPR_pro": 4703,
+                "length": 1567,
+                "anno_name": "1_Cas9_RuvC_out.xls",
+                "pfam_anno_name": "1_Cas9_RuvC_out.xls",
+                "function": "1_Cas9_RuvC_out.xls"
+            },
+            {
+                "protein_id": "NODE_1045_length_14230_cov_6.096226#11759#13473#5646#10349",
+                "faa_id": "NODE_1045_length_14230_cov_6.096226#11759#13473_7",
+                "protein_start": 5646,
+                "protein_end": 10349,
+                "E_value": 0.0,
+                "distace_between_CRISPR_pro": -1410,
+                "length": 1567,
+                "anno_name": "Cas9-BH,HNH_4",
+                "pfam_anno_name": "cas9",
+                "function": "CRISPR (clustered regularly interspaced short palindromic repeat) is an adaptive immune system that provides protection against mobile genetic elements (viruses, transposable elements and conjugative plasmids). CRISPR clusters contain spacers, sequences complementary to antecedent mobile elements, and target invading nucleic acids. CRISPR clusters are transcribed and processed into CRISPR RNA (crRNA). In type II CRISPR systems correct processing of pre-crRNA requires a trans-encoded small RNA (tracrRNA), endogenous ribonuclease 3 (rnc) and this protein. The tracrRNA serves as a guide for ribonuclease 3-aided processing of pre-crRNA. Subsequently Cas9 crRNA tracrRNA endonucleolytically cleaves linear or circular dsDNA target complementary to the spacer"
+            },
+            {
+                "protein_id": "NODE_1045_length_14230_cov_6.096226#11759#13473#10346#11239",
+                "faa_id": "NODE_1045_length_14230_cov_6.096226#11759#13473_8",
+                "protein_start": 10346,
+                "protein_end": 11239,
+                "E_value": 1.2e-52,
+                "distace_between_CRISPR_pro": 893,
+                "length": 297,
+                "anno_name": "1_Cas1_out.xls",
+                "pfam_anno_name": "1_Cas1_out.xls",
+                "function": "1_Cas1_out.xls"
+            },
+            {
+                "protein_id": "NODE_1045_length_14230_cov_6.096226#11759#13473#10346#11239",
+                "faa_id": "NODE_1045_length_14230_cov_6.096226#11759#13473_8",
+                "protein_start": 10346,
+                "protein_end": 11239,
+                "E_value": 2.56e-180,
+                "distace_between_CRISPR_pro": -520,
+                "length": 297,
+                "anno_name": "Cas_Cas1",
+                "pfam_anno_name": "cas1",
+                "function": "CRISPR (clustered regularly interspaced short palindromic repeat), is an adaptive immune system that provides protection against mobile genetic elements (viruses, transposable elements and conjugative plasmids). CRISPR clusters contain spacers, sequences complementary to antecedent mobile elements, and target invading nucleic acids. CRISPR clusters are transcribed and processed into CRISPR RNA (crRNA). Acts as a dsDNA endonuclease. Involved in the integration of spacer DNA into the CRISPR cassette"
+            },
+            {
+                "protein_id": "NODE_1045_length_14230_cov_6.096226#11759#13473#11294#11641",
+                "faa_id": "NODE_1045_length_14230_cov_6.096226#11759#13473_9",
+                "protein_start": 11294,
+                "protein_end": 11641,
+                "E_value": 1.2e-15,
+                "distace_between_CRISPR_pro": 347,
+                "length": 115,
+                "anno_name": "1_Cas2_out.xls",
+                "pfam_anno_name": "1_Cas2_out.xls",
+                "function": "1_Cas2_out.xls"
+            },
+            {
+                "protein_id": "NODE_1045_length_14230_cov_6.096226#11759#13473#11294#11641",
+                "faa_id": "NODE_1045_length_14230_cov_6.096226#11759#13473_9",
+                "protein_start": 11294,
+                "protein_end": 11641,
+                "E_value": 3.69e-68,
+                "distace_between_CRISPR_pro": -118,
+                "length": 115,
+                "anno_name": "CRISPR_Cas2",
+                "pfam_anno_name": "cas2",
+                "function": "CRISPR (clustered regularly interspaced short palindromic repeat), is an adaptive immune system that provides protection against mobile genetic elements (viruses, transposable elements and conjugative plasmids). CRISPR clusters contain sequences complementary to antecedent mobile elements and target invading nucleic acids. CRISPR clusters are transcribed and processed into CRISPR RNA (crRNA). Functions as a ssRNA-specific endoribonuclease. Involved in the integration of spacer DNA into the CRISPR cassette"
+            }
+        ]
+    },
+    {
+        "excel_id": 112253426,
+        "seq_id": "NODE_11225_length_3426_cov_3.408187",
+        "CRISPR_start": 2510,
+        "CRISPR_end": 34021,
+        "proteins": [
+            {
+                "protein_id": "NODE_11225_length_3426_cov_3.408187#2510#3402#1#1725",
+                "faa_id": "NODE_11225_length_3426_cov_3.408187#2510#3402_1",
+                "protein_start": 1,
+                "protein_end": 1725,
+                "E_value": 0.0034,
+                "distace_between_CRISPR_pro": 1724,
+                "length": 574,
+                "anno_name": "1_Cas9_HNH_out.xls",
+                "pfam_anno_name": "1_Cas9_HNH_out.xls",
+                "function": "1_Cas9_HNH_out.xls"
+            },
+            {
+                "protein_id": "NODE_11225_length_3426_cov_3.408187#2510#3402#1#1725",
+                "faa_id": "NODE_11225_length_3426_cov_3.408187#2510#3402_1",
+                "protein_start": 1,
+                "protein_end": 1725,
+                "E_value": 3.8e-44,
+                "distace_between_CRISPR_pro": 1724,
+                "length": 574,
+                "anno_name": "1_Cas9_RuvCIII_out.xls",
+                "pfam_anno_name": "1_Cas9_RuvCIII_out.xls",
+                "function": "1_Cas9_RuvCIII_out.xls"
+            },
+            {
+                "protein_id": "NODE_11225_length_3426_cov_3.408187#2510#3402#1#1725",
+                "faa_id": "NODE_11225_length_3426_cov_3.408187#2510#3402_1",
+                "protein_start": 1,
+                "protein_end": 1725,
+                "E_value": 3.6e-29,
+                "distace_between_CRISPR_pro": 1724,
+                "length": 574,
+                "anno_name": "1_Cas9_RuvC_out.xls",
+                "pfam_anno_name": "1_Cas9_RuvC_out.xls",
+                "function": "1_Cas9_RuvC_out.xls"
+            },
+            {
+                "protein_id": "NODE_11225_length_3426_cov_3.408187#2510#3402#1#1725",
+                "faa_id": "NODE_11225_length_3426_cov_3.408187#2510#3402_1",
+                "protein_start": 1,
+                "protein_end": 1725,
+                "E_value": 0.0,
+                "distace_between_CRISPR_pro": -785,
+                "length": 574,
+                "anno_name": "HNH_4",
+                "pfam_anno_name": "cas9",
+                "function": "CRISPR (clustered regularly interspaced short palindromic repeat) is an adaptive immune system that provides protection against mobile genetic elements (viruses, transposable elements and conjugative plasmids). CRISPR clusters contain spacers, sequences complementary to antecedent mobile elements, and target invading nucleic acids. CRISPR clusters are transcribed and processed into CRISPR RNA (crRNA). In type II CRISPR systems correct processing of pre-crRNA requires a trans-encoded small RNA (tracrRNA), endogenous ribonuclease 3 (rnc) and this protein. The tracrRNA serves as a guide for ribonuclease 3-aided processing of pre-crRNA. Subsequently Cas9 crRNA tracrRNA endonucleolytically cleaves linear or circular dsDNA target complementary to the spacer"
+            },
+            {
+                "protein_id": "NODE_11225_length_3426_cov_3.408187#2510#3402#1726#2388",
+                "faa_id": "NODE_11225_length_3426_cov_3.408187#2510#3402_2",
+                "protein_start": 1726,
+                "protein_end": 2388,
+                "E_value": 6.79e-106,
+                "distace_between_CRISPR_pro": -122,
+                "length": 220,
+                "anno_name": "HNH_4",
+                "pfam_anno_name": "cas9",
+                "function": "CRISPR (clustered regularly interspaced short palindromic repeat) is an adaptive immune system that provides protection against mobile genetic elements (viruses, transposable elements and conjugative plasmids). CRISPR clusters contain spacers, sequences complementary to antecedent mobile elements, and target invading nucleic acids. CRISPR clusters are transcribed and processed into CRISPR RNA (crRNA). In type II CRISPR systems correct processing of pre-crRNA requires a trans-encoded small RNA (tracrRNA), endogenous ribonuclease 3 (rnc) and this protein. The tracrRNA serves as a guide for ribonuclease 3-aided processing of pre-crRNA. Subsequently Cas9 crRNA tracrRNA endonucleolytically cleaves linear or circular dsDNA target complementary to the spacer"
+            }
+        ]
+    },
+    {
+        "excel_id": 130472822,
+        "seq_id": "NODE_13047_length_2822_cov_6.388869",
+        "CRISPR_start": 1908,
+        "CRISPR_end": 2290,
+        "proteins": [
+            {
+                "protein_id": "NODE_13047_length_2822_cov_6.388869#1908#2290#3#2621",
+                "faa_id": "NODE_13047_length_2822_cov_6.388869#1908#2290_1",
+                "protein_start": 3,
+                "protein_end": 2621,
+                "E_value": 1.06e-34,
+                "distace_between_CRISPR_pro": -2287,
+                "length": 872,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            }
+        ]
+    },
+    {
+        "excel_id": 142902356,
+        "seq_id": "NODE_14290_length_2356_cov_2.867014",
+        "CRISPR_start": 76,
+        "CRISPR_end": 1307,
+        "proteins": [
+            {
+                "protein_id": "NODE_14290_length_2356_cov_2.867014#76#1307#1436#2017",
+                "faa_id": "NODE_14290_length_2356_cov_2.867014#76#1307_1",
+                "protein_start": 1436,
+                "protein_end": 2017,
+                "E_value": 9.58e-16,
+                "distace_between_CRISPR_pro": 129,
+                "length": 193,
+                "anno_name": "Cas_Csy4",
+                "pfam_anno_name": "-",
+                "function": "TIGRFAM CRISPR-associated protein Cas6 Csy4, subtype I-F YPEST"
+            },
+            {
+                "protein_id": "NODE_14290_length_2356_cov_2.867014#76#1307#2030#2356",
+                "faa_id": "NODE_14290_length_2356_cov_2.867014#76#1307_2",
+                "protein_start": 2030,
+                "protein_end": 2356,
+                "E_value": 1.82e-25,
+                "distace_between_CRISPR_pro": 723,
+                "length": 108,
+                "anno_name": "Cas_Csy3",
+                "pfam_anno_name": "-",
+                "function": "CRISPR-associated protein (Cas_Csy3)"
+            }
+        ]
+    },
+    {
+        "excel_id": 178572530,
+        "seq_id": "NODE_17857_length_2530_cov_12.419394",
+        "CRISPR_start": 46,
+        "CRISPR_end": 4411,
+        "proteins": [
+            {
+                "protein_id": "NODE_17857_length_2530_cov_12.419394#46#441#470#2494",
+                "faa_id": "NODE_17857_length_2530_cov_12.419394#46#441_1",
+                "protein_start": 470,
+                "protein_end": 2494,
+                "E_value": 1.1e-05,
+                "distace_between_CRISPR_pro": 2024,
+                "length": 674,
+                "anno_name": "1_C2c8_out.xls",
+                "pfam_anno_name": "1_C2c8_out.xls",
+                "function": "1_C2c8_out.xls"
+            },
+            {
+                "protein_id": "NODE_17857_length_2530_cov_12.419394#46#441#470#2494",
+                "faa_id": "NODE_17857_length_2530_cov_12.419394#46#441_1",
+                "protein_start": 470,
+                "protein_end": 2494,
+                "E_value": 9.5e-10,
+                "distace_between_CRISPR_pro": 2024,
+                "length": 674,
+                "anno_name": "1_PF07282_out.xls",
+                "pfam_anno_name": "1_PF07282_out.xls",
+                "function": "1_PF07282_out.xls"
+            },
+            {
+                "protein_id": "NODE_17857_length_2530_cov_12.419394#46#441#470#2494",
+                "faa_id": "NODE_17857_length_2530_cov_12.419394#46#441_1",
+                "protein_start": 470,
+                "protein_end": 2494,
+                "E_value": 7.39e-09,
+                "distace_between_CRISPR_pro": 29,
+                "length": 674,
+                "anno_name": "HTH_OrfB_IS605,OrfB_Zn_ribbon",
+                "pfam_anno_name": "-",
+                "function": "Transposase, IS605 OrfB family"
+            }
+        ]
+    },
+    {
+        "excel_id": 190032197,
+        "seq_id": "NODE_19003_length_2197_cov_4.320728",
+        "CRISPR_start": 578,
+        "CRISPR_end": 1173,
+        "proteins": [
+            {
+                "protein_id": "NODE_19003_length_2197_cov_4.320728#578#1173#1534#2196",
+                "faa_id": "NODE_19003_length_2197_cov_4.320728#578#1173_3",
+                "protein_start": 1534,
+                "protein_end": 2196,
+                "E_value": 8.58e-23,
+                "distace_between_CRISPR_pro": 361,
+                "length": 220,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            }
+        ]
+    },
+    {
+        "excel_id": 222542343,
+        "seq_id": "NODE_22254_length_2343_cov_1.642483",
+        "CRISPR_start": 1348,
+        "CRISPR_end": 1638,
+        "proteins": [
+            {
+                "protein_id": "NODE_22254_length_2343_cov_1.642483#1348#1638#556#2343",
+                "faa_id": "NODE_22254_length_2343_cov_1.642483#1348#1638_2",
+                "protein_start": 556,
+                "protein_end": 2343,
+                "E_value": 7.81e-42,
+                "distace_between_CRISPR_pro": -1082,
+                "length": 595,
+                "anno_name": "Peptidase_S74,YadA_head",
+                "pfam_anno_name": "-",
+                "function": "Hep Hag repeat protein"
+            }
+        ]
+    },
+    {
+        "excel_id": 262132041,
+        "seq_id": "NODE_26213_length_2041_cov_2.657100",
+        "CRISPR_start": 8,
+        "CRISPR_end": 320,
+        "proteins": [
+            {
+                "protein_id": "NODE_26213_length_2041_cov_2.657100#8#320#1#1830",
+                "faa_id": "NODE_26213_length_2041_cov_2.657100#8#320_1",
+                "protein_start": 1,
+                "protein_end": 1830,
+                "E_value": 8.59e-06,
+                "distace_between_CRISPR_pro": -319,
+                "length": 609,
+                "anno_name": "-",
+                "pfam_anno_name": "-",
+                "function": "-"
+            }
+        ]
+    }
+]
