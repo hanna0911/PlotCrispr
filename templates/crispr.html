@@ -241,19 +241,28 @@
             var annoName = api.value(DIM_ANNO_NAME) + '';
             var annoNameWidth = echarts.format.getTextRect(annoName).width;
             var text = barLength > annoNameWidth + 40 && x + barLength >= 180 ? annoName : '';
-            var rectNormal = clipRectByRect(params, {
-                x: x,
-                y: y,
-                width: barLength,
-                height: barHeight
-            });
-            var rectVIP = clipRectByRect(params, {
+            // var rectNormal = clipRectByRect(params, { // protein bar
+            //     x: x,
+            //     y: y,
+            //     width: barLength,
+            //     height: barHeight
+            // });
+            var rectNormal = clipPointsByRect(params, [ // protein bar (arrow)
+                [x, y], // 左上
+                [x + barLength - 10, y], // 右上
+                [x + barLength - 10, y - 3], // added 
+                [x + barLength, y + barHeight / 2], // 右
+                [x + barLength - 10, y + barHeight + 3], // added 
+                [x + barLength - 10, y + barHeight], // 右下
+                [x, y + barHeight] // 左下
+            ]);
+            var rectVIP = clipRectByRect(params, { // never used
                 x: x,
                 y: y,
                 width: barLength / 2,
                 height: barHeight
             });
-            var rectText = clipRectByRect(params, {
+            var rectText = clipRectByRect(params, { // text diplayed above
                 x: x,
                 y: y,
                 width: barLength,
@@ -263,13 +272,17 @@
                 type: 'group',
                 children: [
                     {
-                        type: 'rect',
-                        ignore: !rectNormal,
-                        shape: rectNormal,
+                        // type: 'rect', // protein bar
+                        type: 'polygon',
+                        // ignore: !rectNormal,
+                        // shape: rectNormal,
+                        shape: {
+                            points: rectNormal
+                        }, 
                         style: api.style({ fill: colorList[api.value(DIM_LENGTH) % 9] })
                     },
                     {
-                        type: 'rect',
+                        type: 'rect', // text displayed above
                         ignore: !rectText,
                         shape: rectText,
                         style: api.style({
@@ -295,6 +308,7 @@
                         type: 'path',
                         shape: {  // y-axis green shape
                             d: 'M0,0 L0,-20 L30,-20 C42,-20 38,-1 50,-1 L70,-1 L70,0 Z',
+                            // d: 'path://M0 0 h 300 v -20 l 80 40 l -80 40 v -20 h -300 z', // test
                             x: 0,
                             y: -20,
                             width: 100,
@@ -334,39 +348,146 @@
             var y = 200 - barHeight;
 
             var rectNormals = [];
-            var num_of_blocks = Math.floor(barLength / 10);
+            var num_of_blocks = Math.floor(barLength / 15); // 5个为一个单位，一组3个单位
             for(var i = 0; i < num_of_blocks; i++){
                 rectNormals.push(clipRectByRect(params, {
-                   x: x + i * 10,
+                   x: 5 + x + i * 15,
                    y: y,
-                   width: 10,
+                   width: 5,
                    height: barHeight
                 }));
             }
 
             var rectVIPs = [];
-            for(var i = 0; i < num_of_blocks; i++){
-                rectVIPs.push(clipRectByRect(params, {
-                   x: x + 5 + i * 10,
-                   y: y,
-                   width: 10,
-                   height: barHeight
-                }));
+            for(var i = 0; i < num_of_blocks - 1; i++){
+                // rectVIPs.push(clipRectByRect(params, {
+                //    x: x + 5 + i * 10,
+                //    y: y,
+                //    width: 10,
+                //    height: barHeight
+                // }));
+                rectVIPs.push(clipPointsByRect(params, [
+                    // [x + 5 + i * 10, y],
+                    [5 + x + 5 + i * 15 + 10 - 10 + 5, y], // 上
+                    [5 + x + 5 + i * 15 + 10 - 20 + 5 + 5, y + barHeight / 2], // 右
+                    [5 + x + 5 + i * 15 + 10 - 10 + 5, y + barHeight], // 下
+                    [5 + x + 5 + i * 15 + 10 - 5 + 5, y + barHeight / 2], // 左
+                    // [x + 5 + i * 10, y + barHeight]
+                ]));
             }
 
             var children = []
-            for(var i = 0; i < num_of_blocks; i++){
-                children.push({
+
+            children.push({
+                type: 'line', 
+                shape: {
+                    x1: x,
+                    y1: y - 5,
+                    x2: x,
+                    y2: y + barHeight + 5,
+                },
+                style: api.style({
+                    fill: 'red',
+                    stroke: 'red',
+                    lineWidth: 2
+                })
+            })
+            children.push({
+                type: 'line', 
+                shape: {
+                    x1: x - 1,
+                    y1: y - 5,
+                    x2: x + 8,
+                    y2: y - 5,
+                },
+                style: api.style({
+                    fill: 'red',
+                    stroke: 'red',
+                    lineWidth: 2
+                })
+            })
+            children.push({
+                type: 'line', 
+                shape: {
+                    x1: x - 1,
+                    y1: y + barHeight + 5,
+                    x2: x + 8,
+                    y2: y + barHeight + 5,
+                },
+                style: api.style({
+                    fill: 'red',
+                    stroke: 'red',
+                    lineWidth: 2
+                })
+            })
+
+            var colors = ['#7093DB', '#527F76', '#5F9F9F']
+            for(var i = 0; i < num_of_blocks - 1; i++){
+                children.push({ 
                     type: 'rect',
                     shape: rectNormals[i],
                     style: api.style({ fill: 'black' })
                 });
                 children.push({
-                    type: 'rect',
-                    shape: rectVIPs[i],
-                    style: api.style({ fill: 'white' })
+                    // type: 'rect',
+                    type: 'polygon', 
+                    // shape: rectVIPs[i],
+                    shape: {
+                        points: rectVIPs[i]
+                    }, 
+                    style: api.style({ fill: colors[i % 3] })
                 });
             }
+            children.push({
+                type: 'rect',
+                shape: rectNormals[num_of_blocks - 1],
+                style: api.style({ fill: 'black' })
+            });
+
+
+            children.push({
+                type: 'line', 
+                shape: {
+                    x1: x + num_of_blocks * 15,
+                    y1: y - 5,
+                    x2: x + num_of_blocks * 15,
+                    y2: y + barHeight + 5,
+                },
+                style: api.style({
+                    fill: 'red',
+                    stroke: 'red',
+                    lineWidth: 2
+                })
+            })
+            children.push({
+                type: 'line', 
+                shape: {
+                    x1: x + num_of_blocks * 15 + 1,
+                    y1: y - 5,
+                    x2: x + num_of_blocks * 15 - 8,
+                    y2: y - 5,
+                },
+                style: api.style({
+                    fill: 'red',
+                    stroke: 'red',
+                    lineWidth: 2
+                })
+            })
+            children.push({
+                type: 'line', 
+                shape: {
+                    x1: x + num_of_blocks * 15 + 1,
+                    y1: y + barHeight + 5,
+                    x2: x + num_of_blocks * 15 - 8,
+                    y2: y + barHeight + 5,
+                },
+                style: api.style({
+                    fill: 'red',
+                    stroke: 'red',
+                    lineWidth: 2
+                })
+            })
+
 
             return {
                 type: 'group',
@@ -380,6 +501,14 @@
                 width: params.coordSys.width,
                 height: params.coordSys.height
             });
+        }
+        function clipPointsByRect(params, points){
+            return echarts.graphic.clipPointsByRect(points, {
+                x: params.coordSys.x,
+                y: params.coordSys.y,
+                width: params.coordSys.width,
+                height: params.coordSys.height
+            })
         }
         myCharts.setOption(option);
     </script>

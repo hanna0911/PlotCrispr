@@ -33,15 +33,25 @@
         </nav>
          <div style="margin: 5%">
             <h1>{{ current_sea }}</h1>
+            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+              <button type="submit" class="btn btn-outline-primary" >Submit</button>
+              <button type="reset" class="btn btn-outline-secondary">Clear</button>
+            </div>
             <div style="margin: 2%">
                 <!-- Option 1: Bootstrap Bundle with Popper -->
                 <script src="../static/js/bootstrap-bundle-min.js" type="text/javascript"></script>
-                <ul class="list-group list-group-flush">
-                    {% for sequence in sequences %}
-                        <a href="crispr/{{ sequence.excel_id }}" class="list-group-item"> <h5 class="mb-1">Sequence {{ sequence.excel_id }}</h5>
-                        <small class="text-muted">{{ sequence.seq_id }}</small></a>
-                    {% endfor %}
-                </ul>
+                <form name="chooseSequences" id="sequenceForm">
+                  <ul class="list-group list-group-flush">
+                      {% for sequence in sequences %}
+                          <!-- 多选显示多个结果 -->
+                          <input class="form-check-input" type="checkbox" name="sequences" id="{{ sequence.excel_id }}" value="{{ sequence.excel_id }}">
+
+                          <!-- 直链超链接 -->
+                          <a href="crispr/{{ sequence.excel_id }}" class="list-group-item"> <h5 class="mb-1">Sequence {{ sequence.excel_id }}</h5>
+                          <small class="text-muted">{{ sequence.seq_id }}</small></a>
+                      {% endfor %}
+                  </ul>
+                </form>
             </div>
          </div>
   </body>
