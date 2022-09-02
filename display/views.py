@@ -18,7 +18,7 @@ def location(request, sea):
     sequences = Sequence.objects.filter(sea = Sea.objects.filter(name = sea).first())
     seas = Sea.objects.all()
     sequences = serialize('json', sequences, fields=['seq_id', 'excel_id'])
-    return render(request, 'location_elUI.html', { 'sequences': sequences, 'current_sea': sea, 'seas': seas })
+    return render(request, 'location.html', { 'sequences': sequences, 'current_sea': sea, 'seas': seas })
 
 
 # CRISPR页，按照不同CRISPR序列显示
@@ -49,6 +49,7 @@ def crisprs(request, crisprs_id):
         crisprs.append({'sequence': sequence, 'proteins': proteins})
     
     return render(request, 'crisprs.html', {'crisprs': crisprs, 'seas': seas})
+
 
 # 添加Nordic数据
 def importData(request):
