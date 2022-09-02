@@ -2,6 +2,7 @@ from django.http import HttpResponse
 import json
 from .models import Sea, Sequence, Protein
 from django.shortcuts import render
+from django.core.serializers import serialize
 
 
 # Create your views here.
@@ -16,7 +17,8 @@ def home(request):
 def location(request, sea):
     sequences = Sequence.objects.filter(sea = Sea.objects.filter(name = sea).first())
     seas = Sea.objects.all()
-    return render(request, 'location.html', { 'sequences': sequences, 'current_sea': sea, 'seas': seas })
+    sequences = serialize('json', sequences, fields=['seq_id', 'excel_id'])
+    return render(request, 'location_elUI.html', { 'sequences': sequences, 'current_sea': sea, 'seas': seas })
 
 
 # CRISPR页，按照不同CRISPR序列显示
@@ -26,6 +28,27 @@ def crispr(request, crispr_id):
     seas = Sea.objects.all()
     return render(request, 'crispr.html', {'sequence': sequence, 'proteins': proteins, 'seas': seas })
 
+
+def crisprs(request, crisprs_id):
+    print(crisprs_id)
+    crisprs_id_list = []
+    id = ""
+    for c in crisprs_id:
+        if c == '+':
+            crisprs_id_list.append(id)
+            id = ""
+        else:
+            id += c
+    crisprs_id_list.append(id)
+    
+    crisprs = []
+    for crispr_id in crisprs_id_list:
+        sequence = Sequence.objects.filter(excel_id=crispr_id).first()  # 测试第一条sequence
+        proteins = sequence.protein_set.all()
+        seas = Sea.objects.all()
+        crisprs.append({'sequence': sequence, 'proteins': proteins})
+    
+    return render(request, 'crisprs.html', {'crisprs': crisprs, 'seas': seas})
 
 # 添加Nordic数据
 def importData(request):
@@ -58,3 +81,4 @@ def importData(request):
     
     print('finished_importing')
     return HttpResponse('finished_importing')
+
